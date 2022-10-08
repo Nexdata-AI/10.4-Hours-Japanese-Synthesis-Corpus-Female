@@ -1,8 +1,10 @@
 # 10.4-Hours-Japanese-Synthesis-Corpus-Female
-https://www.datatang.ai/datasets/1165
+
 
 ## Description
 10.4 Hours - Japanese Synthesis Corpus-Female. It is recorded by Japanese native speaker, with authentic accent. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3SdzXo5
 
 ## Format
 48,000Hz, 24bit, uncompressed wav, mono channel;
@@ -27,3 +29,6 @@ word transcription;
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
